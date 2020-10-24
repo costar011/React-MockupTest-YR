@@ -7,10 +7,8 @@ class MM00 extends React.Component {
       <div className="MM00 screen">
         <div className="MM00___main"></div>
 
-        <div className="screen01__mockup">
+        <div className="MM00__mockup">
           <img src={mockup} />
-
-          <div className="mockup__img"></div>
         </div>
       </div>
     );
