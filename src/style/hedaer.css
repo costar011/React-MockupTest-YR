@@ -1,18 +1,22 @@
 .Header {
-  width: 100%;
-  position: absolute;
   background-color: none;
-
-  background-color: cornflowerblue;
-
   display: flex;
+
   justify-content: space-between;
+
   color: black;
 }
 
-.Header .Header__main {
+.Header .Header__title {
   width: 100%;
-  height: 100vh;
+  height: 5vh;
 
-  display: flex;
+  margin-top: 15px;
+}
+
+.Header .Header__main1 {
+  width: 100%;
+  height: 5vh;
+
+  margin-top: 15px;
 }

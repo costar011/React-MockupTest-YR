@@ -6,7 +6,9 @@ class Header extends React.Component {
     return (
       <div className="Header">
         <div className="Header__title">AGAIN</div>
-        <div className="Hedaer__main">main</div>
+        <div className="Hedaer__main">
+          <div className="Header__main1">Movie</div>
+        </div>
       </div>
     );
   }
