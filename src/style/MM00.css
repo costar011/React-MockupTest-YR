@@ -1,0 +1,42 @@
+.MM00 {
+  background-color: none;
+  display: flex;
+
+  background-color: darkgoldenrod;
+}
+
+.MM00 .MM00__txt {
+  display: flex;
+  flex-direction: column;
+
+  font-size: 20px;
+}
+
+.MM00 .MM00__txt .MM00__txt1 {
+  width: 100%;
+  height: 100%;
+
+  font-size: 45px;
+  font-weight: 600;
+
+  display: flex;
+  flex-direction: column;
+
+  align-items: center;
+  justify-content: center;
+}
+
+.MM00 .MM00__txt .MM00__txt2 {
+  margin: 50px;
+}
+
+.MM00 .MM00__mockup img {
+  width: 450px;
+  height: 770px;
+  background-size: cover;
+  background-repeat: no-repeat;
+
+  margin-left: 700px;
+  margin-top: 30px;
+  border-radius: 40px;
+}
