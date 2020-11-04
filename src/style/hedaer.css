@@ -3,6 +3,8 @@
   display: flex;
 
   justify-content: space-between;
+
+  background-color: darkcyan;
 }
 
 .Header .Header__title {
