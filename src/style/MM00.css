@@ -19,7 +19,7 @@
 
   font-size: 45px;
   font-weight: 600;
-  margin-left: 10px;
+  margin-left: 40px;
 
   align-items: center;
   justify-content: center;
@@ -31,7 +31,7 @@
 
   font-size: 45px;
   font-weight: 600;
-  margin-left: 10px;
+  margin-left: 40px;
 
   align-items: center;
   justify-content: center;
@@ -43,7 +43,7 @@
   background-size: cover;
   background-repeat: no-repeat;
 
-  margin-left: 820px;
+  margin-left: 670px;
   margin-top: 30px;
   border-radius: 40px;
 }
