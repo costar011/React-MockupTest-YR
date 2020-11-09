@@ -1,8 +1,7 @@
 .MM00 {
+  background-color: darkgoldenrod;
   background-color: none;
   display: flex;
-
-  background-color: darkgoldenrod;
 }
 
 .MM00 .MM00__txt {

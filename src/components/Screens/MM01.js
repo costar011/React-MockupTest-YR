@@ -1,4 +1,5 @@
 import React from "react";
+import mockup from "../image/mockup.png";
 
 class MM01 extends React.Component {
   render() {
