@@ -10,6 +10,7 @@
 
   align-items: center;
   justify-content: center;
+  margin-left: 580px;
 }
 
 .MM00 .MM00__txt .MM00__txt1 {
@@ -18,7 +19,6 @@
 
   font-size: 45px;
   font-weight: 600;
-  margin-left: 40px;
 
   align-items: center;
   justify-content: center;
@@ -30,7 +30,6 @@
 
   font-size: 45px;
   font-weight: 600;
-  margin-left: 40px;
 
   align-items: center;
   justify-content: center;
@@ -42,7 +41,7 @@
   background-size: cover;
   background-repeat: no-repeat;
 
-  margin-left: 670px;
   margin-top: 30px;
+  margin-left: 230px;
   border-radius: 40px;
 }
