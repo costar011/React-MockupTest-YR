@@ -6,11 +6,11 @@
 
 .MM00 .MM00__txt {
   display: flex;
-  flex-direction: column;
+  flex-direction: row;
 
   align-items: center;
   justify-content: center;
-  margin-left: 580px;
+  margin-left: 490px;
 }
 
 .MM00 .MM00__txt .MM00__txt1 {
@@ -42,6 +42,6 @@
   background-repeat: no-repeat;
 
   margin-top: 30px;
-  margin-left: 230px;
+  margin-left: 200px;
   border-radius: 40px;
 }
