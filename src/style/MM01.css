@@ -3,3 +3,45 @@
   background-color: none;
   display: flex;
 }
+
+.MM01 .MM01__txt {
+  display: flex;
+  flex-direction: row;
+
+  align-items: center;
+  justify-content: center;
+  margin-left: 490px;
+}
+
+.MM01 .MM01__txt .MM01__txt1 {
+  width: 100%;
+  height: 60px;
+
+  font-size: 45px;
+  font-weight: 600;
+
+  align-items: center;
+  justify-content: center;
+}
+
+.MM01 .MM01__txt .MM01__txt2 {
+  width: 100%;
+  height: 60px;
+
+  font-size: 45px;
+  font-weight: 600;
+
+  align-items: center;
+  justify-content: center;
+}
+
+.MM01 .MM01__mockup img {
+  width: 450px;
+  height: 770px;
+  background-size: cover;
+  background-repeat: no-repeat;
+
+  margin-top: 30px;
+  margin-left: 230px;
+  border-radius: 40px;
+}
