@@ -6,7 +6,7 @@ class MM00 extends React.Component {
     return (
       <div className="MM00 screen">
         <div className="MM00__txt">
-          <div className="MM00__txt1">MM00 Test</div>
+          <div className="MM00__txt1">MM00</div>
           <div className="MM00__txt2">Page</div>
         </div>
 

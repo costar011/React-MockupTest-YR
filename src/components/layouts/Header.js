@@ -1,5 +1,4 @@
 import React from "react";
-import { Route } from "react-router-dom";
 import mockup from "../image/mockup.png";
 
 class Header extends React.Component {
