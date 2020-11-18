@@ -6,7 +6,7 @@
 
 .MM01 .MM01__txt {
   display: flex;
-  flex-direction: row;
+  flex-direction: column;
 
   align-items: center;
   justify-content: center;
@@ -30,6 +30,7 @@
 
   font-size: 45px;
   font-weight: 600;
+  margin-top: 25px;
 
   align-items: center;
   justify-content: center;
@@ -42,6 +43,6 @@
   background-repeat: no-repeat;
 
   margin-top: 30px;
-  margin-left: 230px;
+  margin-left: 240px;
   border-radius: 40px;
 }

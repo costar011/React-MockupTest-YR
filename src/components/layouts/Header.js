@@ -8,11 +8,12 @@ class Header extends React.Component {
       <div className="Header">
         <div className="Header__title">AGAIN</div>
 
-        <div className="Hedaer__main">
-          <div className="Header__main1">Movie</div>
-          <div className="Header__mockup">
-            <img src={mockup} />
-          </div>
+        <div className="Header__title">
+          <div className="Header__title1">Movie</div>
+        </div>
+
+        <div className="Header__mockup">
+          <img src={mockup} />
         </div>
       </div>
     );

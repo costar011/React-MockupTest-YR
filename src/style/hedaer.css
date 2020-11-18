@@ -8,24 +8,20 @@
 }
 
 .Header .Header__title {
-  width: 100%;
-
   font-size: 25px;
-  margin: 20px;
+  margin-top: 20px;
 }
 
-.Header .Header__main {
-  width: 100%;
+.Header .Header__title {
+  margin-left: 60px;
 
   display: flex;
   flex-direction: column;
 }
 
-.Header .Header__main1 {
-  width: 100%;
-
+.Header .Header__title1 {
   font-size: 25px;
-  margin: 20px;
+  margin-left: 60px;
 }
 
 .Header .Header__mockup img {
