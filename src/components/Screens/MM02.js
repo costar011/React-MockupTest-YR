@@ -6,8 +6,12 @@ class MM02 extends React.Component {
     return (
       <div className="MM02 screen">
         <div className="MM02__txt">
-          <div className="MM02__txt1">txt1</div>
-          <div className="MM02__txt2">txt2</div>
+          <div className="MM02__txt1">MM02</div>
+          <div className="MM02__txt2">Page</div>
+        </div>
+
+        <div className="MM02__mockup">
+          <img src={mockup} />
         </div>
       </div>
     );

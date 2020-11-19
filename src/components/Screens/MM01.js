@@ -6,8 +6,8 @@ class MM01 extends React.Component {
     return (
       <div className="MM01 screen">
         <div className="MM01__txt">
-          <div className="MM01__txt1">txt1</div>
-          <div className="MM01__txt2">txt2</div>
+          <div className="MM01__txt1">MM01</div>
+          <div className="MM01__txt2">Page</div>
         </div>
 
         <div className="MM01__mockup">

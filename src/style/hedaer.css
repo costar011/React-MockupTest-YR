@@ -17,16 +17,17 @@
 
   display: flex;
   flex-direction: column;
+
+  margin-left: 100px;
 }
 
 .Header .Header__title1 {
   font-size: 30px;
-  margin-left: 60px;
 }
 
 .Header .Header__mockup img {
   width: 450px;
-  height: 770px;
+  height: 700px;
 
   border-radius: 40px;
 
