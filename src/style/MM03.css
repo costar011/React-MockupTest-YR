@@ -1,0 +1,32 @@
+.MM03 {
+  background-color: darkorange;
+  background-color: none;
+  display: flex;
+}
+
+.MM03 .MM03__txt {
+  display: flex;
+  flex-direction: column;
+
+  align-items: center;
+  justify-content: center;
+  margin-left: 400px;
+}
+
+.MM03 .MM03__txt .MM03__txt1 {
+  width: 100%;
+  height: 60px;
+
+  font-size: 45px;
+  font-weight: 600;
+
+  align-items: center;
+  justify-content: center;
+}
+
+.MM03 .MM03__txt .MM03__txt2 {
+  width: 100%;
+  height: 60px;
+
+  font-size: 45px;
+}
