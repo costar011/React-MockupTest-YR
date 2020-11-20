@@ -10,7 +10,7 @@ class MM03 extends React.Component {
           <div className="MM03__txt2">Page</div>
         </div>
 
-        <div className="MM02__mockup">
+        <div className="MM03__mockup">
           <img src={mockup} />
         </div>
       </div>
