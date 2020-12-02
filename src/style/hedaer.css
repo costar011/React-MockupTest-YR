@@ -7,21 +7,6 @@
   background-color: darkcyan;
 }
 
-.Header .Header__title {
-  font-size: 30px;
-  margin-top: 20px;
-}
-
-.Header .Header__title {
-  margin-left: 60px;
-
-  margin-left: 100px;
-}
-
-.Header .Header__title1 {
-  font-size: 30px;
-}
-
 .Header .Header__mockup img {
   width: 450px;
   height: 700px;

@@ -5,10 +5,9 @@ class Header extends React.Component {
   render() {
     return (
       <div className="Header">
-        <div className="Header__title">AGAIN</div>
-
         <div className="Header__title">
-          <div className="Header__title1">Movie</div>
+          <div className="Header__title1">Again</div>
+          <div className="Header__title2">Movie</div>
         </div>
 
         <div className="Header__mockup">
