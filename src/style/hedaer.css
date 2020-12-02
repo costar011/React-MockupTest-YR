@@ -7,6 +7,23 @@
   background-color: darkcyan;
 }
 
+.Header .Header__title {
+  display: flex;
+  flex-direction: row;
+}
+
+.Header .Header__title .Header__title1 {
+  flex-direction: row;
+  font-size: 30px;
+  padding: 10px 5px 0px 30px;
+  margin-left: 40px;
+}
+
+.Header .Header__title .Header__title2 {
+  flex-direction: row;
+  font-size: 30px;
+}
+
 .Header .Header__mockup img {
   width: 450px;
   height: 700px;
